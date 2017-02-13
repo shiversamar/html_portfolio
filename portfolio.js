@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("button").click(function(){
-        $("#p1").css("color", "blue").slideUp(10).slideDown(2000);
+        $("#p1").css("color", "black").slideUp(10).slideDown(2000);
     });
     //
     // animationHover('#logo1','lightSpeedIn');
