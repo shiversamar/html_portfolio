@@ -96,6 +96,8 @@ h3 {
 
   text-align: center;
   background: url('http://hawaiiseowebdesign.com/wp-content/uploads/2014/10/LytronHawaiiHome3NEW-031.jpg') no-repeat center center fixed;
+
+  background-image: url("yellow.jpg");
   background-size: cover;
   height: 855px;
 }
@@ -187,6 +189,7 @@ hr.intro-divider {
   padding: 50px 0;
   background: url('https://www.datalicious.com/wp-content/uploads/2014/08/img1.jpg') no-repeat center center fixed;
   background-size: cover;
+  background-image: url("computer.jpg");
   height: 855px;
 }
 .bg-overlay2 {
@@ -250,6 +253,7 @@ h2.section-heading {
 section {
   color: black;
   background: url('https://img2.goodfon.ru/wallpaper/big/0/87/noutbuk-klaviatura-klavishi.jpg') no-repeat center center fixed;
+  background-image: url("back.jpg");
   background-size: cover;
 }
 
@@ -381,6 +385,7 @@ section {
 .banner {
   padding: 100px 0;
   background: url('https://0.s3.envato.com/files/123714421/DSC_4739.jpg') no-repeat center center fixed;
+  background-image: url("contact.jpg");
   background-size: cover;
   height: 755px;
 }
